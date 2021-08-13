@@ -1,0 +1,6 @@
+change calendar height acording to screen layout
+install dependencies - 
+  font-awesome-otf/ttf
+  yad
+  sysstat
+                      
